@@ -1,0 +1,51 @@
+﻿Id,Code,Shortcut,Name,Country,Currency,Enabled,Whg,Continent,Regionid,Region Sort,Company Sort,Company update,Id Code
+"8,300",Arleigh Group (closed),ARL,Arleigh Group Ltd.,GB,GBP,1,,LKQE,7,1,0,Euro Car Parts,8300 Arleigh Group (closed)
+"9,000",Fource,FF,Fource B.V,NL,EUR,1,HAL,LKQE,3,2,11,Fource,9000 Fource
+"9,100",Fource NL North,FFNLN,Fource Automotive North,NL,EUR,1,AXN,LKQE,3,2,12,Fource NL North,9100 Fource NL North
+"9,200",Fource NL South,FFNLS,Fource Automotive South,NL,EUR,1,S1Z,LKQE,3,2,13,Fource NL South,9200 Fource NL South
+"9,600",LKQ Belgium,FFBE,LKQ Belgium,BE,EUR,1,AXB,LKQE,3,2,16,LKQ Belgium,9600 LKQ Belgium
+"9,700",Van Heck,VH,BV Van Heck-INTERPIECES,NL,EUR,0,,LKQE,3,2,0,Van Heck,9700 Van Heck
+"9,800",Vanesch,VAN,VANESCH VERF GROEP B.V.,NL,EUR,1,,LKQE,3,2,14,Vanesch,9800 Vanesch
+"10,000",Mekonomen,MEK,Mekonomen Grossist AB,SE,SEK,0,,LKQE,8,8,0,Mekonomen,10000 Mekonomen
+"10,100",Sorensen,SOR,,SE,,0,,LKQE,8,8,0,Sorensen,10100 Sorensen
+"10,200",Meca Car Parts,MCP,,SE,,0,,LKQE,8,8,0,Meca Car Parts,10200 Meca Car Parts
+"11,000",BCC Group,BCC,,BE,,0,,LKQE,8,8,0,BCC Group,11000 BCC Group
+"12,000",SiMImpex,SIM,SiM Impex d.o.o.,BA,BAM,1,BH,LKQE,4,4,25,SiMImpex,12000 SiMImpex
+"12,999",SiMImpex CIAK,SIM,,BA,BAM,0,,LKQE,4,4,0,SiMImpex CIAK,12999 SiMImpex CIAK
+"13,000",Recopart,REC,Recopart AB,SE,,0,,LKQE,1,6,0,Recopart,13000 Recopart
+"14,000",Stahlgruber DE,SGDE,STAHLGRUBER GmbH,DE,EUR,1,STA,LKQE,5,5,27,Stahlgruber DE,14000 Stahlgruber DE
+"14,100",PV Automotive,PVA,PV Automotive GmbH,DE,EUR,1,PVA,LKQE,5,5,28,PV Automotive,14100 PV Automotive
+"14,200",Stahlgruber AT,SGAT,STAHLGRUBER Gesellschaft m.b.H.,AT,EUR,1,STA-A,LKQE,5,5,30,Stahlgruber AT,14200 Stahlgruber AT
+"14,300",Neimcke,NEI,Neimcke GmbH & Co. KG,DE,EUR,1,,LKQE,5,5,29,Neimcke,14300 Neimcke
+"14,400",Stahlgruber SL (closed),SGSL,Stahlgruber trgovina d.o.o. (Closed 17.4.2024),SI,EUR,1,STA-SLO,LKQE,4,4,26,Stahlgruber SL (closed),14400 Stahlgruber SL (closed)
+"14,500",PV Technik,PVT,PV Technik GmbH,DE,EUR,0,,LKQE,5,5,0,PV Technik,14500 PV Technik
+"15,000",Inter-Team,INT,INTER-TEAM Sp. z o.o.,PL,PLN,1,,LKQE,8,8,0,Inter-Team,15000 Inter-Team
+"16,000",Optimal,OPT,OPTIMAL Automotive GmbH,DE,EUR,1,,LKQE,2,7,33,Optimal,16000 Optimal
+"17,000",MPM,MPM,MPM,NL,EUR,1,,LKQE,2,7,34,MPM,17000 MPM
+"18,000",Atracco NO,ANO,,NO,NOK,1,,LKQE,1,6,37,Atracco NO,18000 Atracco NO
+"18,100",Atracco SE,ASE,,SE,SEK,1,,LKQE,1,6,36,Atracco SE,18100 Atracco SE
+"19,000",Emotive GmbH,EMO,EMOTIVE GmbH,DE,EUR,1,,LKQE,2,7,0,Emotive GmbH,19000 Emotive GmbH
+"8,200",Euro Car Parts Ireland,ROI,Euro Car Parts Ireland Ltd.,IE,EUR,1,ROI,LKQE,7,1,10,Euro Car Parts Ireland,8200 Euro Car Parts Ireland
+"8,100",Andrew Page (closed),APG,ANDREW PAGE LIMITED (closed 30.9.2020),GB,GBP,1,,LKQE,7,1,0,Andrew Page (closed),8100 Andrew Page (closed)
+"8,000",Euro Car Parts,ECP,"Euro Car Parts, Ltd.",GB,GBP,1,UK,LKQE,7,1,8,Euro Car Parts,8000 Euro Car Parts
+"7,300",AutoKelly BG (closed),AKBG,AK BG (Closed 14.3.2020),BG,BGN,0,,LKQE,8,8,0,AutoKelly BG (closed),7300 AutoKelly BG (closed)
+"7,200",LKQ SK,AKSK,LKQ SK s.r.o.,SK,EUR,1,SK2,LKQE,4,4,19,LKQ SK,7200 LKQ SK
+"7,100",LKQ CZ,AKCZ,LKQ CZ s.r.o.,CZ,CZK,1,CS2,LKQE,4,4,20,LKQ CZ,7100 LKQ CZ
+"6,999",Elit Polska MEKO,EPOL,,PL,PLN,0,,LKQE,4,4,0,Elit Polska MEKO,6999 Elit Polska MEKO
+"6,100",ISC Katowice,ISC,,PL,,0,,LKQE,,0,0,ISC Katowice,6100 ISC Katowice
+"6,000",Elit Polska,EPOL,ELIT Polska Sp. z o.o.,PL,PLN,1,PL,LKQE,4,4,24,Elit Polska,6000 Elit Polska
+"5,000",Cargo HU (closed),CHU,Car-Go,HU,,0,,LKQE,4,4,0,Cargo HU (closed),5000 Cargo HU (closed)
+"4,000",Lang HU,LHU,Lang Kereskedelmi Kft,HU,HUF,1,HU,LKQE,4,4,23,Lang HU,4000 Lang HU
+"3,400",Elit PL (closed),EPL,Elit PL (closed 31.12.2018),PL,PLN,1,,LKQE,4,4,0,Elit PL (closed),3400 Elit PL (closed)
+"3,300",Elit RO,ERO,Elit Romania P.A.O. srl.,RO,RON,1,RO,LKQE,4,4,22,Elit RO,3300 Elit RO
+"3,200",Elit UA,EUA,Elit Ukraine Ltd.,UA,UAH,1,UA,LKQE,4,4,21,Elit UA,3200 Elit UA
+"3,100",Elit SK (closed),ESK,Elit Slovakia s.r.o.,SK,EUR,1,,LKQE,4,4,0,LKQ SK,3100 Elit SK (closed)
+"3,000",Elit CZ (closed),ECZ,Elit spol s.r.o.,CZ,CZK,1,,LKQE,4,4,0,LKQ CZ,3000 Elit CZ (closed)
+"2,100",LKQ HO Zug,LKQHO,,CH,,0,,LKQE,,0,0,LKQ HO Zug,2100 LKQ HO Zug
+"2,000",Rhiag CH,RGL,Rhiag Group Ltd.,CH,CHF,1,CH_RHIAG,LKQE,5,5,31,Rhiag CH,2000 Rhiag CH
+"1,500",LKQ Italia,LKQI,,IT,,0,,LKQE,,0,0,LKQ Italia,1500 LKQ Italia
+"1,400",Stahlgruber - BM Srl,SGIT,Stahlgruber - BM Srl,IT,EUR,1,,LKQE,6,3,35,Stahlgruber - BM Srl,1400 Stahlgruber - BM Srl
+"1,300",Motorparts,MTP,,IT,EUR,0,,LKQE,6,3,0,Motorparts,1300 Motorparts
+"1,200",Era I,ERAI,ERA S.r.l.,IT,EUR,1,ERA,LKQE,2,7,32,Era I,1200 Era I
+"1,100",Bertolotti I (closed),BEIT,Bertolotti SpA.,IT,EUR,1,,LKQE,6,3,0,Bertolotti I (closed),1100 Bertolotti I (closed)
+"1,000",Rhiag I,RHIT,Rhiag S.p.A.,IT,EUR,1,IT_RHIAG_IA,LKQE,6,3,18,Rhiag I,1000 Rhiag I

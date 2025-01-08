@@ -1,0 +1,725 @@
+﻿Id,Name,Eos Cat,Eos Cat Name,Category,Atr Product Group,Atr Product Group Name
+,Not linked,CAT99,Not linked,,0,OTHER - Not linked
+M1010,Shock absorbers,CAT02,Chassis,101,0,OTHER - Not linked
+M1014,Suspension,CAT02,Chassis,101,"205,500",Shock absorbers/strut bearings
+M1020,Brake pads,CAT01,Braking,102,"201,005",Brake pads/shoes
+M1021,Brake discs,CAT01,Braking,102,"201,020",Brake discs/ drums
+M1022,Brake Various,CAT01,Braking,102,0,OTHER - Not linked
+M1023,Brake hydraulics,CAT01,Braking,102,"201,025",Brake hydraulics
+M1024,Brake shoes & Linings,CAT01,Braking,102,0,OTHER - Not linked
+M1025,Brake hoses,CAT01,Braking,102,"201,030",Brake parts
+M1027,Brake calipers,CAT01,Braking,102,"201,030",Brake parts
+M1029,Brake Cables,CAT01,Braking,102,0,OTHER - Not linked
+M1030,Wheel bearings,CAT02,Chassis,103,0,OTHER - Not linked
+M1031,Wheel Bearing Kits,CAT02,Chassis,103,0,OTHER - Not linked
+M1032,Wheel Bearing Seals,CAT02,Chassis,103,0,OTHER - Not linked
+M1033,Wheel Hubs,CAT02,Chassis,103,0,OTHER - Not linked
+M1040,Exhaust system,CAT03,Engine,104,0,OTHER - Not linked
+M1060,Tyres,CAT07,"Accessories, Perform",106,"350,000",Tyres
+M1061,Tyre consumables,CAT07,"Accessories, Perform",106,0,OTHER - Not linked
+M1070,Wheel rims,CAT07,"Accessories, Perform",107,0,OTHER - Not linked
+M1071,Wheel bolts,CAT07,"Accessories, Perform",107,0,OTHER - Not linked
+M1082,Cables,CAT01,Braking,102,0,OTHER - Not linked
+M1121,Levers,CAT01,Braking,112,"600,060",Other revenues without mapping
+M1131,Chains,CAT03,Engine,113,"600,060",Other revenues without mapping
+M1132,Sprockets,CAT03,Engine,113,"600,060",Other revenues without mapping
+M1316,Air Suspension Add-ons,CAT02,Chassis,101,0,OTHER - Not linked
+M1320,Brake Caliper Accessories,CAT01,Braking,102,0,OTHER - Not linked
+M1321,Brake Disc Accessories,CAT01,Braking,102,0,OTHER - Not linked
+M1322,Brake Drum Accessories,CAT01,Braking,102,0,OTHER - Not linked
+M1323,Brake shoes & Lining Accessories,CAT01,Braking,102,0,OTHER - Not linked
+M1324,Brake pads accessories,CAT01,Braking,102,0,OTHER - Not linked
+M1325,Brake Discs & Pads Kits,CAT01,Braking,102,0,OTHER - Not linked
+M1326,Brake Cylinders,CAT01,Braking,102,0,OTHER - Not linked
+M1328,Brake booster & Master Cylinder,CAT01,Braking,102,0,OTHER - Not linked
+M1410,Suspension Kits,CAT02,Chassis,111,0,OTHER - Not linked
+M1416,Motorcycle steering parts,CAT02,Chassis,111,0,OTHER - Not linked
+M2010,Clutch kits,CAT03,Engine,201,"204,000",Clutches
+M2011,Clutch parts,CAT03,Engine,201,0,OTHER - Not linked
+M2020,Belts,CAT03,Engine,202,0,OTHER - Not linked
+M2021,Single tensioners and pulleys,CAT03,Engine,202,0,OTHER - Not linked
+M2023,Chains,CAT03,Engine,202,0,OTHER - Not linked
+M2030,Engine air filters,CAT06,Filtration & Lubrican,203,"203,500",Motor vehicle filters
+M2032,Fuel filters,CAT06,Filtration & Lubrican,203,0,OTHER - Not linked
+M2033,Oil filters,CAT06,Filtration & Lubrican,203,0,OTHER - Not linked
+M2034,Transmission and other filters,CAT06,Filtration & Lubrican,203,0,OTHER - Not linked
+M2050,Water pumps,CAT03,Engine,205,"206,010",Water pumps
+M2051,Thermostats,CAT05,Electrics & Electron,205,"206,015",Thermostates
+M2052,Radiators,CAT04,Collision & Cooling,205,"207,500",Engine cooling
+M2053,Fans,CAT04,Collision & Cooling,205,"207,500",Engine cooling
+M2054,Expansion tanks,CAT04,Collision & Cooling,205,0,OTHER - Not linked
+M2056,Intercoolers,CAT04,Collision & Cooling,205,0,OTHER - Not linked
+M2057,Oil coolers,CAT04,Collision & Cooling,205,0,OTHER - Not linked
+M2058,Cooling Products,CAT04,Collision & Cooling,205,0,OTHER - Not linked
+M2059,Oil cooler gaskets & seals,CAT04,Collision & Cooling,205,0,OTHER - Not linked
+M2063,Engine Mounts,CAT02,Chassis,236,"209,600",Gasket sets/Gaskets/Gasket material
+M2070,Engine Oils,CAT06,Filtration & Lubrican,207,"401,510",Engine oils
+M2071,Gearbox lubricants,CAT06,Filtration & Lubrican,207,0,OTHER - Not linked
+M2072,Other Oils and lubricants,CAT06,Filtration & Lubrican,207,0,OTHER - Not linked
+M2081,Fuel Products,CAT03,Engine,208,0,OTHER - Not linked
+M2091,Injection parts,CAT03,Engine,209,0,OTHER - Not linked
+M2100,Engine gaskets and seals,CAT03,Engine,210,0,OTHER - Not linked
+M3010,Spark plugs,CAT05,Electrics & Electron,301,"102,010",Spark plugs
+M3011,Ignition cables,CAT05,Electrics & Electron,301,0,OTHER - Not linked
+M3013,Other ignition parts,CAT05,Electrics & Electron,301,"102,025",Igition parts
+M3014,Ignition coils,CAT05,Electrics & Electron,301,0,OTHER - Not linked
+M3020,Starters,CAT05,Electrics & Electron,302,"101,000",Starters/alternators
+M3021,Alternators,CAT05,Electrics & Electron,302,"101,000",Starters/alternators
+M3022,Spare parts for starters and alternators,CAT05,Electrics & Electron,302,0,OTHER - Not linked
+M3030,Batteries,CAT05,Electrics & Electron,303,"103,010",Car batteries
+M3060,Headlights,CAT04,Collision & Cooling,306,0,OTHER - Not linked
+M3061,Bulb lamps,CAT05,Electrics & Electron,306,0,OTHER - Not linked
+M3062,Rear lights,CAT04,Collision & Cooling,306,0,OTHER - Not linked
+M3063,Side lights,CAT04,Collision & Cooling,306,0,OTHER - Not linked
+M3064,Other lights,CAT04,Collision & Cooling,306,0,OTHER - Not linked
+M3065,Front Light accessories,CAT04,Collision & Cooling,306,"102,510",Headlights
+M3066,Universal lights,CAT04,Collision & Cooling,306,0,OTHER - Not linked
+M3067,Daytime lights,CAT04,Collision & Cooling,306,0,OTHER - Not linked
+M3068,Front Fog Lights,CAT04,Collision & Cooling,306,0,OTHER - Not linked
+M3070,Switches,CAT05,Electrics & Electron,307,0,OTHER - Not linked
+M3080,Sensors,CAT05,Electrics & Electron,308,0,OTHER - Not linked
+M3085,Fuel pumps,CAT05,Electrics & Electron,308,0,OTHER - Not linked
+M3087,Other electronic parts,CAT05,Electrics & Electron,308,0,OTHER - Not linked
+M3088,TPMS Sensors,CAT07,"Accessories, Perform",308,0,OTHER - Not linked
+M3089,Speed Sensors,CAT01,Braking,308,0,OTHER - Not linked
+M3381,Crankshaft & Camshaft Sensors,CAT05,Electrics & Electron,308,0,OTHER - Not linked
+M3382,Throttle Body,CAT05,Electrics & Electron,308,0,OTHER - Not linked
+M3384,Accelerator Pedal Position Sensors,CAT05,Electrics & Electron,308,0,OTHER - Not linked
+M3385,Steering Angle Sensors,CAT05,Electrics & Electron,308,0,OTHER - Not linked
+M3386,Pressure Sensors,CAT05,Electrics & Electron,308,0,OTHER - Not linked
+M3387,Control Units,CAT05,Electrics & Electron,308,0,OTHER - Not linked
+M4010,Moto Body,CAT04,Collision & Cooling,401,"250,000",Body parts
+M4030,Outside mirrors,CAT04,Collision & Cooling,403,0,OTHER - Not linked
+M4033,Mirror Cover,CAT04,Collision & Cooling,403,0,OTHER - Not linked
+M4034,Mirror Glass,CAT04,Collision & Cooling,403,0,OTHER - Not linked
+M4035,Outside Mirror Control Element,CAT04,Collision & Cooling,403,0,OTHER - Not linked
+M4091,Fuel Tanks,CAT04,Collision & Cooling,409,0,OTHER - Not linked
+M5065,Scooters & motorbikes,CAT07,"Accessories, Perform",506,0,OTHER - Not linked
+M5067,Scooter spare parts,CAT07,"Accessories, Perform",506,0,OTHER - Not linked
+M5323,Motorbike clothing,CAT07,"Accessories, Perform",502,0,OTHER - Not linked
+M5325,Motorbike Accessories,CAT07,"Accessories, Perform",502,0,OTHER - Not linked
+M9000,Not linked (motorbikes),CAT99,Not linked,900,0,OTHER - Not linked
+P1010,Shock absorbers,CAT02,Chassis,101,"205,500",Shock absorbers/strut bearings
+P1011,Shock absorbers various,CAT02,Chassis,101,"209,000",Coil springs
+P1012,Coil springs,CAT02,Chassis,101,"209,000",Coil springs
+P1013,Gas springs,CAT02,Chassis,101,"209,500",Gas springs
+P1014,Mounting kits with bearings,CAT02,Chassis,101,0,OTHER - Not linked
+P1015,To Delete - Spheres for Citroen,CAT02,Chassis,101,0,OTHER - Not linked
+P1016,Leaf Springs,CAT02,Chassis,101,0,OTHER - Not linked
+P1017,Air suspension systems,CAT02,Chassis,101,0,OTHER - Not linked
+P1018,Various non-vehicle gas springs,CAT02,Chassis,101,0,OTHER - Not linked
+P1019,Coil Spring add-ons,CAT02,Chassis,101,0,OTHER - Not linked
+P1020,Brake pads,CAT01,Braking,102,"201,005",Brake pads/shoes
+P1021,Brake discs,CAT01,Braking,102,"201,020",Brake discs/ drums
+P1022,Brake various,CAT01,Braking,102,"201,030",Brake parts
+P1023,Brake hydraulics,CAT01,Braking,102,"201,025",Brake hydraulics
+P1024,Brake shoes & Linings,CAT01,Braking,102,"201,005",Brake pads/shoes
+P1025,Brake hoses,CAT01,Braking,102,"201,025",Brake hydraulics
+P1026,Brake drums,CAT01,Braking,102,"201,020",Brake discs/ drums
+P1027,Brake calipers,CAT01,Braking,102,"600,040",Parts subject to wear other revenues
+P1029,Brake cables,CAT01,Braking,102,0,OTHER - Not linked
+P1030,Wheel bearings,CAT02,Chassis,103,"205,010",Wheel bearings
+P1031,Wheel Bearing Kits,CAT02,Chassis,103,0,OTHER - Not linked
+P1032,Wheel Bearing Seals,CAT02,Chassis,103,0,OTHER - Not linked
+P1033,Wheel Hubs,CAT02,Chassis,103,0,OTHER - Not linked
+P1040,Exhaust system,CAT03,Engine,104,"202,010",Mufflers PC
+P1041,Catalytic system,CAT03,Engine,104,"202,510",Catalytic converters
+P1042,Diesel Particulate filters,CAT03,Engine,104,"203,000",Diesel Particulate filters (retroffitting and replacement)
+P1051,Driveshafts,CAT02,Chassis,105,0,OTHER - Not linked
+P1052,CV joints,CAT02,Chassis,105,"207,000",Drive shafts/CV Joints/Boots
+P1053,CV Boots Kits,CAT02,Chassis,105,0,OTHER - Not linked
+P1054,Other driveline parts,CAT02,Chassis,105,0,OTHER - Not linked
+P1055,Propellor shafts,CAT02,Chassis,105,0,OTHER - Not linked
+P1056,Gear levers,CAT02,Chassis,105,0,OTHER - Not linked
+P1057,Drive line Mounts,CAT02,Chassis,236,0,OTHER - Not linked
+P1058,Transmission Mounts,CAT02,Chassis,236,0,OTHER - Not linked
+P1059,Propellor shafts add-ons,CAT02,Chassis,105,0,OTHER - Not linked
+P1060,Tyres,CAT07,"Accessories, Perform",106,"350,000",Tyres
+P1061,Tyre consumables,CAT07,"Accessories, Perform",106,0,OTHER - Not linked
+P1062,Wheel kits with tyres,CAT07,"Accessories, Perform",106,0,OTHER - Not linked
+P1070,Wheel rims,CAT07,"Accessories, Perform",107,"600,040",Parts subject to wear other revenues
+P1071,Wheel Bolts,CAT07,"Accessories, Perform",107,0,OTHER - Not linked
+P1072,Wheel covers,CAT07,"Accessories, Perform",502,0,OTHER - Not linked
+P1080,Chassis various,CAT02,Chassis,108,"600,040",Parts subject to wear other revenues
+P1081,To Delete - Rubber to metal parts,CAT02,Chassis,236,"600,040",Parts subject to wear other revenues
+P1082,Cables,CAT01,Braking,102,"600,040",Parts subject to wear other revenues
+P1090,Compressors,CAT04,Collision & Cooling,109,"208,500",Spare parts for air conditioning/ thermomanagement
+P1091,Condensers,CAT04,Collision & Cooling,109,"208,500",Spare parts for air conditioning/ thermomanagement
+P1092,Dryer Filters,CAT04,Collision & Cooling,109,"208,500",Spare parts for air conditioning/ thermomanagement
+P1093,A/C Line Products,CAT04,Collision & Cooling,109,"208,500",Spare parts for air conditioning/ thermomanagement
+P1095,Air Blowers,CAT04,Collision & Cooling,109,0,OTHER - Not linked
+P1096,To Delete - Interior blower resistors,CAT04,Collision & Cooling,109,0,OTHER - Not linked
+P1097,Evaporators,CAT04,Collision & Cooling,109,0,OTHER - Not linked
+P1101,Air feeding valves and other components,CAT02,Chassis,110,0,OTHER - Not linked
+P1103,Air Pressure compressors & pumps,CAT02,Chassis,110,0,OTHER - Not linked
+P1111,Tie rod ends,CAT02,Chassis,111,"204,500",Steering/Suspension/Servo pumps
+P1112,Axial joints,CAT02,Chassis,111,"204,500",Steering/Suspension/Servo pumps
+P1113,Ball joints,CAT02,Chassis,111,"204,500",Steering/Suspension/Servo pumps
+P1114,Steering boxes,CAT02,Chassis,111,"204,500",Steering/Suspension/Servo pumps
+P1115,Power steering pumps,CAT02,Chassis,111,"204,500",Steering/Suspension/Servo pumps
+P1116,To delete - Subframes,CAT02,Chassis,111,0,OTHER - Not linked
+P1117,Power Steering add-ons,CAT02,Chassis,111,0,OTHER - Not linked
+P1118,Anti-roll Bars,CAT02,Chassis,111,0,OTHER - Not linked
+P1119,Suspension Bushes,CAT02,Chassis,111,0,OTHER - Not linked
+P1140,Axles,CAT02,Chassis,114,0,OTHER - Not linked
+P1141,Subframes,CAT02,Chassis,114,0,OTHER - Not linked
+P1310,Shock absorber Dust Cover,CAT02,Chassis,101,0,OTHER - Not linked
+P1312,Steering Shocks,CAT02,Chassis,101,0,OTHER - Not linked
+P1313,Supplementary Coil Springs,CAT02,Chassis,101,0,OTHER - Not linked
+P1314,Top Strut Mounting,CAT02,Chassis,101,0,OTHER - Not linked
+P1315,Suspension Mount Bearings,CAT02,Chassis,101,0,OTHER - Not linked
+P1316,Air Suspension Add-ons,CAT02,Chassis,101,0,OTHER - Not linked
+P1317,Electric Power Lift,CAT02,Chassis,101,0,OTHER - Not linked
+P1318,Leaf Spring Add-Ons,CAT02,Chassis,101,0,OTHER - Not linked
+P1320,Brake Caliper Accessories,CAT01,Braking,102,0,OTHER - Not linked
+P1321,Brake Disc Accessories,CAT01,Braking,102,0,OTHER - Not linked
+P1322,Brake Drum Accessories,CAT01,Braking,102,0,OTHER - Not linked
+P1323,Brake shoes & Lining Accessories,CAT01,Braking,102,0,OTHER - Not linked
+P1324,Brake pads accessories,CAT01,Braking,102,0,OTHER - Not linked
+P1325,Brake Discs & Pads Kits,CAT01,Braking,102,0,OTHER - Not linked
+P1326,Brake Cylinders,CAT01,Braking,102,0,OTHER - Not linked
+P1327,Brake Wear Indicators,CAT01,Braking,102,0,OTHER - Not linked
+P1328,Brake booster & Master Cylinder,CAT01,Braking,102,0,OTHER - Not linked
+P1410,Suspension Kits,CAT02,Chassis,111,0,OTHER - Not linked
+P1411,Ball joint add-ons,CAT02,Chassis,111,0,OTHER - Not linked
+P1412,Suspension Arms,CAT02,Chassis,111,0,OTHER - Not linked
+P1413,Steering Knuckles,CAT02,Chassis,111,0,OTHER - Not linked
+P1414,Steering Column,CAT02,Chassis,111,0,OTHER - Not linked
+P1415,Link Stabilisers,CAT02,Chassis,111,0,OTHER - Not linked
+P1417,Steering Boots,CAT02,Chassis,111,0,OTHER - Not linked
+P2010,Clutch kits,CAT03,Engine,201,"204,000",Clutches
+P2011,Clutch parts,CAT03,Engine,201,"204,000",Clutches
+P2012,Clutch hydraulics,CAT03,Engine,201,"204,000",Clutches
+P2013,To Delete - Clutch various,CAT03,Engine,201,"204,000",Clutches
+P2014,Dual Mass Flywheels,CAT03,Engine,201,"204,000",Clutches
+P2020,V and Multi ribbed Belts,CAT03,Engine,202,"201,500",Drive belts
+P2021,Single tensioners and pulleys,CAT03,Engine,202,"201,542",Tensioners
+P2022,Timing & Auxiliary Belt kits (belt and tensioners),CAT03,Engine,202,"201,505",Belt kits
+P2023,Timing chain kits and components,CAT03,Engine,202,"201,500",Drive belts
+P2024,To Delete - Tensioner sets (without belt),CAT03,Engine,202,"201,542",Tensioners
+P2025,"Water pump kits (timing belt, tensioners, water pump)",CAT03,Engine,202,"206,030","Water pumps kits (water pump, belt and tensioners)"
+P2026,Single timing belts,CAT03,Engine,202,0,OTHER - Not linked
+P2027,To Delete - Crankshaft pulleys,CAT03,Engine,202,0,OTHER - Not linked
+P2030,Engine air filters,CAT06,Filtration & Lubrican,203,"203,500",Motor vehicle filters
+P2031,Cabin air filters,CAT06,Filtration & Lubrican,203,"203,500",Motor vehicle filters
+P2032,Fuel filters,CAT06,Filtration & Lubrican,203,0,OTHER - Not linked
+P2033,Oil filters,CAT06,Filtration & Lubrican,203,0,OTHER - Not linked
+P2034,Transmission and other filters,CAT06,Filtration & Lubrican,203,0,OTHER - Not linked
+P2040,Hoses,CAT03,Engine,204,"600,040",Parts subject to wear other revenues
+P2041,To Delete - Hose clamps,CAT08,Tools & Equipments,204,"551,500",Mounting parts / DIN standard parts / screws
+P2050,Water pumps,CAT03,Engine,205,"206,010",Water pumps
+P2051,Thermostats,CAT05,Electrics & Electron,205,"206,015",Thermostates
+P2052,Radiators,CAT04,Collision & Cooling,205,"207,500",Engine cooling
+P2053,Fans,CAT04,Collision & Cooling,205,"207,500",Engine cooling
+P2054,Expansion tanks,CAT04,Collision & Cooling,205,0,OTHER - Not linked
+P2055,Heaters,CAT04,Collision & Cooling,205,0,OTHER - Not linked
+P2056,Intercoolers,CAT04,Collision & Cooling,205,0,OTHER - Not linked
+P2057,Oil coolers,CAT04,Collision & Cooling,205,0,OTHER - Not linked
+P2058,Cooling Products,CAT04,Collision & Cooling,205,0,OTHER - Not linked
+P2059,Oil cooler gaskets & seals,CAT04,Collision & Cooling,205,0,OTHER - Not linked
+P2060,Pistons,CAT03,Engine,206,"206,500",
+P2061,Piston rings,CAT03,Engine,206,"206,500",
+P2062,Engine bearings,CAT03,Engine,206,"206,600",Exchange engines / cylinder heads
+P2063,Engine Mounts,CAT02,Chassis,236,0,OTHER - Not linked
+P2064,Oil Service accessories,CAT03,Engine,206,"206,600",Exchange engines / cylinder heads
+P2065,Valves,CAT03,Engine,206,"206,500",
+P2066,Cylinder heads,CAT03,Engine,206,"206,600",Exchange engines / cylinder heads
+P2067,Bolts and bolts sets,CAT03,Engine,206,"206,600",Exchange engines / cylinder heads
+P2068,Camshafts and camshaft kits,CAT03,Engine,206,"206,600",Exchange engines / cylinder heads
+P2069,Crankshafts,CAT03,Engine,206,"206,600",Exchange engines / cylinder heads
+P2070,Engine Oils,CAT06,Filtration & Lubrican,207,"401,510",Engine oils
+P2071,Gearbox lubricants,CAT06,Filtration & Lubrican,207,0,OTHER - Not linked
+P2072,Other Oils and lubricants,CAT06,Filtration & Lubrican,207,0,OTHER - Not linked
+P2073,Industrial Fluids,CAT06,Filtration & Lubrican,207,0,OTHER - Not linked
+P2074,Transmission lubricants,CAT06,Filtration & Lubrican,207,0,OTHER - Not linked
+P2081,Fuel Products,CAT03,Engine,208,0,OTHER - Not linked
+P2090,Engine various,CAT03,Engine,209,"209,200",Diesel spare parts
+P2091,Diesel injection parts,CAT03,Engine,209,"209,200",Diesel spare parts
+P2092,Oil pumps,CAT03,Engine,209,"207,500",Engine cooling
+P2093,Turbochargers,CAT03,Engine,209,"202,525",Turbo chargers
+P2094,Gasoline injection parts,CAT03,Engine,209,0,OTHER - Not linked
+P2100,Engine gaskets and seals,CAT03,Engine,210,"209,600",Gasket sets/Gaskets/Gasket material
+P2110,Complete engines,CAT03,Engine,211,0,OTHER - Not linked
+P2120,Gearboxes and components,CAT03,Engine,212,0,OTHER - Not linked
+P3010,Spark plugs,CAT05,Electrics & Electron,301,"102,010",Spark plugs
+P3011,Ignition cables and lead sets,CAT05,Electrics & Electron,301,"102,025",Igition parts
+P3012,Glow plugs,CAT05,Electrics & Electron,301,"102,015",Glow plugs
+P3013,Ignition electric components (traditional),CAT05,Electrics & Electron,301,"102,025",Igition parts
+P3014,Ignition coils,CAT05,Electrics & Electron,301,"102,030",Ingnition coils (Bobine)
+P3020,Starters,CAT05,Electrics & Electron,302,"101,000",Starters/alternators
+P3021,Alternators,CAT05,Electrics & Electron,302,"101,000",Starters/alternators
+P3022,Spare parts for starters and alternators,CAT05,Electrics & Electron,302,"101,000",Starters/alternators
+P3030,Batteries,CAT05,Electrics & Electron,303,"103,010",Car batteries
+P3050,Wiper arms,CAT05,Electrics & Electron,305,"104,010",Wiperblades/rubbers
+P3051,Wiping systems,CAT05,Electrics & Electron,305,"104,035",Wiper motors / relays etc.
+P3052,Wiper blades,CAT05,Electrics & Electron,305,0,OTHER - Not linked
+P3053,Wiper Motors,CAT05,Electrics & Electron,305,0,OTHER - Not linked
+P3060,Headlights,CAT04,Collision & Cooling,306,"102,510",Headlights
+P3061,Bulb lamps,CAT05,Electrics & Electron,306,"102,525",Bulbs
+P3062,Rear lights,CAT04,Collision & Cooling,306,0,OTHER - Not linked
+P3063,Side lights,CAT04,Collision & Cooling,306,0,OTHER - Not linked
+P3064,Other lights,CAT04,Collision & Cooling,306,0,OTHER - Not linked
+P3065,Front Light accessories,CAT04,Collision & Cooling,306,"102,510",Headlights
+P3066,Universal lights,CAT04,Collision & Cooling,306,0,OTHER - Not linked
+P3067,Daytime lights,CAT04,Collision & Cooling,306,0,OTHER - Not linked
+P3068,Front Fog Lights,CAT04,Collision & Cooling,306,0,OTHER - Not linked
+P3070,Switches,CAT05,Electrics & Electron,307,"104,500",Switches/relays
+P3071,Steering Column Switches,CAT05,Electrics & Electron,307,"104,500",Switches/relays
+P3072,Horn,CAT05,Electrics & Electron,307,"600,010",Automotive electrics other revenues
+P3073,Electric various,CAT05,Electrics & Electron,307,"600,010",Automotive electrics other revenues
+P3080,Other Sensors & Valves,CAT05,Electrics & Electron,308,"202,515",Lambda sensors
+P3081,Exhaust gas sensors,CAT05,Electrics & Electron,308,0,OTHER - Not linked
+P3082,EGR (exhaust gas regulation) valves,CAT05,Electrics & Electron,308,"202,515",Lambda sensors
+P3083,Mass air flow meters,CAT05,Electrics & Electron,308,"202,515",Lambda sensors
+P3084,Oxygen (lambda) sensors,CAT05,Electrics & Electron,308,"202,515",Lambda sensors
+P3085,Fuel pumps,CAT05,Electrics & Electron,308,"208,540",Fuel Systems/fuel pumps/replacement parts
+P3086,Inlet Manifolds,CAT03,Engine,308,"202,515",Lambda sensors
+P3087,Other electronic parts,CAT05,Electrics & Electron,308,"600,010",Automotive electrics other revenues
+P3088,TPMS Sensors,CAT07,"Accessories, Perform",308,0,OTHER - Not linked
+P3089,Speed sensors,CAT01,Braking,308,0,OTHER - Not linked
+P3090,ADAS Collision sensors,CAT04,Collision & Cooling,308,0,OTHER - Not linked
+P3381,Crankshaft & Camshaft Sensors,CAT05,Electrics & Electron,308,0,OTHER - Not linked
+P3382,Throttle Body,CAT05,Electrics & Electron,308,0,OTHER - Not linked
+P3383,Nox Sensors,CAT05,Electrics & Electron,308,0,OTHER - Not linked
+P3384,Accelerator Pedal Position Sensors,CAT05,Electrics & Electron,308,0,OTHER - Not linked
+P3385,Steering Angle Sensors,CAT05,Electrics & Electron,308,0,OTHER - Not linked
+P3386,Pressure Sensors,CAT05,Electrics & Electron,308,0,OTHER - Not linked
+P3387,Control Units,CAT05,Electrics & Electron,308,0,OTHER - Not linked
+P4010,Bonnets,CAT04,Collision & Cooling,401,"251,500",Sheet metal parts
+P4011,Fenders,CAT04,Collision & Cooling,401,0,OTHER - Not linked
+P4012,Doors,CAT04,Collision & Cooling,401,0,OTHER - Not linked
+P4013,Tailgates & Boots,CAT04,Collision & Cooling,401,0,OTHER - Not linked
+P4014,Repair panels,CAT04,Collision & Cooling,401,0,OTHER - Not linked
+P4015,Door Locks and Handles,CAT04,Collision & Cooling,401,0,OTHER - Not linked
+P4016,Metal Repair Sheets,CAT04,Collision & Cooling,401,0,OTHER - Not linked
+P4030,Outside mirrors,CAT04,Collision & Cooling,403,"152,510",Exterior mirrors/ interior mirrors
+P4032,Inside mirrors,CAT04,Collision & Cooling,403,0,OTHER - Not linked
+P4033,Mirror Cover,CAT04,Collision & Cooling,403,0,OTHER - Not linked
+P4034,Mirror Glass,CAT04,Collision & Cooling,403,0,OTHER - Not linked
+P4035,Outside Mirror Control Element,CAT04,Collision & Cooling,403,0,OTHER - Not linked
+P4040,Front Bumpers,CAT04,Collision & Cooling,404,"252,000",Plastic parts
+P4041,Bumper rear,CAT04,Collision & Cooling,404,0,OTHER - Not linked
+P4042,Reinforcements/Brackets,CAT04,Collision & Cooling,404,0,OTHER - Not linked
+P4043,Grilles,CAT04,Collision & Cooling,404,0,OTHER - Not linked
+P4044,Trims,CAT04,Collision & Cooling,404,0,OTHER - Not linked
+P4045,Plastic covers,CAT04,Collision & Cooling,404,0,OTHER - Not linked
+P4050,Windscreens,CAT04,Collision & Cooling,405,"251,000",Car glass
+P4051,Side windows,CAT04,Collision & Cooling,405,0,OTHER - Not linked
+P4052,Rear windows,CAT04,Collision & Cooling,405,0,OTHER - Not linked
+P4053,Window Accessories,CAT04,Collision & Cooling,405,0,OTHER - Not linked
+P4060,Window Regulators,CAT05,Electrics & Electron,406,"600,030",Body parts other revenues
+P4070,Air Bag Systems,CAT04,Collision & Cooling,407,"600,030",Body parts other revenues
+P4090,To Delete - Bodyparts various,CAT04,Collision & Cooling,401,"600,030",Body parts other revenues
+P4091,Fuel Tanks,CAT04,Collision & Cooling,409,0,OTHER - Not linked
+P4092,Wiper mechanisms,CAT05,Electrics & Electron,409,0,OTHER - Not linked
+P4110,To Delete - Paints,CAT09,Coatings,411,0,OTHER - Not linked
+P5010,Cleaning and Service Chemicals,CAT06,Filtration & Lubrican,501,"405,010",Chemical products for garages
+P5011,AdBlue,CAT06,Filtration & Lubrican,501,"405,010",Chemical products for garages
+P5012,Antifreeze & Coolants,CAT06,Filtration & Lubrican,501,"405,010",Chemical products for garages
+P5013,Screen Wash & De-icer,CAT06,Filtration & Lubrican,501,"405,010",Chemical products for garages
+P5014,A/C gas,CAT04,Collision & Cooling,501,"405,010",Chemical products for garages
+P5015,Car Care Products,CAT06,Filtration & Lubrican,501,"405,010",Chemical products for garages
+P5016,Brake fluid,CAT01,Braking,501,"405,010",Chemical products for garages
+P5017,Repair Chemicals,CAT06,Filtration & Lubrican,501,"405,010",Chemical products for garages
+P5018,To Delete - Hygiene supplies,CAT06,Filtration & Lubrican,501,"405,010",Chemical products for garages
+P5019,To Delete - Other autochemical,CAT06,Filtration & Lubrican,501,"405,010",Chemical products for garages
+P5020,Tow bars,CAT07,"Accessories, Perform",502,"151,000",Tow bars/towing devices
+P5021,Roof racks,CAT07,"Accessories, Perform",502,"151,500",Roof racks/back racks
+P5022,Others,CAT07,"Accessories, Perform",502,"600,020",Accessories other revenues
+P5023,Roof boxes,CAT07,"Accessories, Perform",502,0,OTHER - Not linked
+P5024,bike carriers (roof and tow bars),CAT07,"Accessories, Perform",502,0,OTHER - Not linked
+P5025,Safety products,CAT07,"Accessories, Perform",502,0,OTHER - Not linked
+P5026,Interior styling,CAT07,"Accessories, Perform",502,0,OTHER - Not linked
+P5027,Interior utility,CAT07,"Accessories, Perform",502,0,OTHER - Not linked
+P5028,Exterior styling,CAT07,"Accessories, Perform",502,0,OTHER - Not linked
+P5029,Exterior utility,CAT07,"Accessories, Perform",502,0,OTHER - Not linked
+P5030,Car-Audio-Systems,CAT07,"Accessories, Perform",502,"101,515",Car radio/ loudspeaker/ accessory
+P5040,Snow chains,CAT07,"Accessories, Perform",502,"152,515",Snow chains
+P5050,Original parts,CAT07,"Accessories, Perform",505,"600,060",Other revenues without mapping
+P5060,Leisure,CAT07,"Accessories, Perform",506,0,OTHER - Not linked
+P5061,Outdoor products,CAT07,"Accessories, Perform",506,0,OTHER - Not linked
+P5062,Camping products,CAT07,"Accessories, Perform",506,0,OTHER - Not linked
+P5063,Swimming pools & accessories,CAT07,"Accessories, Perform",506,0,OTHER - Not linked
+P5064,Bicycles & accessories,CAT07,"Accessories, Perform",506,0,OTHER - Not linked
+P5065,To Delete - Scooters & motorbikes,CAT07,"Accessories, Perform",506,0,OTHER - Not linked
+P5066,Cars,CAT99,Not linked,506,0,OTHER - Not linked
+P5068,Furniture and accessories,CAT07,"Accessories, Perform",506,0,OTHER - Not linked
+P5069,Garden,CAT07,"Accessories, Perform",506,0,OTHER - Not linked
+P5070,Labour & services,CAT08,Tools & Equipments,508,0,OTHER - Not linked
+P5071,To Delete - Garage services,CAT08,Tools & Equipments,507,0,OTHER - Not linked
+P5080,Software Licences & Rental,CAT08,Tools & Equipments,508,0,OTHER - Not linked
+P5081,Trainings,CAT08,Tools & Equipments,508,0,OTHER - Not linked
+P5082,Help Line,CAT08,Tools & Equipments,508,0,OTHER - Not linked
+P5083,Remote Diagnostics,CAT08,Tools & Equipments,508,0,OTHER - Not linked
+P5084,Certifications,CAT08,Tools & Equipments,508,0,OTHER - Not linked
+P5085,Concepts,CAT08,Tools & Equipments,508,0,OTHER - Not linked
+P5086,Technical Data,CAT08,Tools & Equipments,508,0,OTHER - Not linked
+P5087,Digital Solutions,CAT08,Tools & Equipments,508,0,OTHER - Not linked
+P5090,Accessories various,CAT07,"Accessories, Perform",509,"600,020",Accessories other revenues
+P5110,To Delete - Sanding,CAT09,Coatings,511,0,OTHER - Not linked
+P5111,To Delete - Polishing,CAT09,Coatings,511,0,OTHER - Not linked
+P5121,"To Delete - Wiping, cleaning, masking",CAT09,Coatings,512,0,OTHER - Not linked
+P5122,To Delete - Bodyshop consumables,CAT09,Coatings,512,0,OTHER - Not linked
+P5123,To Delete - Bodyshop safety and protection,CAT09,Coatings,512,0,OTHER - Not linked
+P5220,Performance Braking,CAT07,"Accessories, Perform",522,0,OTHER - Not linked
+P5221,Performance Engine Components,CAT07,"Accessories, Perform",522,0,OTHER - Not linked
+P5222,Performance Suspension & Steering,CAT07,"Accessories, Perform",522,0,OTHER - Not linked
+P5223,Performance Exhaust,CAT07,"Accessories, Perform",522,0,OTHER - Not linked
+P5230,Marine various,CAT07,"Accessories, Perform",523,0,OTHER - Not linked
+P5231,RV Electrics & Electronics,CAT07,"Accessories, Perform",523,0,OTHER - Not linked
+P5232,RV Furnishings & Fixtures,CAT07,"Accessories, Perform",523,0,OTHER - Not linked
+P5233,RV Hardware & Spares,CAT07,"Accessories, Perform",523,0,OTHER - Not linked
+P5234,RV Mechanical,CAT07,"Accessories, Perform",523,0,OTHER - Not linked
+P5235,RV Protective & Safety,CAT07,"Accessories, Perform",523,0,OTHER - Not linked
+P5310,Additives,CAT06,Filtration & Lubrican,501,0,OTHER - Not linked
+P5311,Technical Sprays & Aerosols,CAT06,Filtration & Lubrican,501,0,OTHER - Not linked
+P5312,Technical Fluids Bulk,CAT06,Filtration & Lubrican,501,0,OTHER - Not linked
+P5320,EV charging accessories,CAT07,"Accessories, Perform",502,0,OTHER - Not linked
+P5321,Interior cabin parts,CAT07,"Accessories, Perform",502,0,OTHER - Not linked
+P5322,Trailer accessories,CAT07,"Accessories, Perform",502,0,OTHER - Not linked
+P5324,Security equipments,CAT07,"Accessories, Perform",502,0,OTHER - Not linked
+P5326,Car Cleaning Accessories,CAT07,"Accessories, Perform",502,0,OTHER - Not linked
+P5360,Multimedia and toys,CAT07,"Accessories, Perform",506,0,OTHER - Not linked
+P6010,To Delete - GE others/spare parts,CAT08,Tools & Equipments,601,"500,000",Garage equipment
+P6011,To Delete - GE diagnostic machines,CAT08,Tools & Equipments,601,"504,500",Diagnostic tools (just devices and no spare parts)
+P6012,"To Delete - GE ELECTRO (chargers,boosters,startin cables,regloscope,lights,multimeters)",CAT08,Tools & Equipments,601,"504,510",Engine analysers / test equipment and chargers
+P6013,"To Delete - GE tyre service (changers, balancers, access)",CAT08,Tools & Equipments,601,"500,000",Garage equipment
+P6014,"To Delete - GE hand tools, power tools, air tools, special tools",CAT08,Tools & Equipments,601,"451,000",Hand tools
+P6015,"To Delete - GE lift (post lift, scissor lift, small jacks, small GE)",CAT08,Tools & Equipments,601,"505,000",Lifts
+P6016,To Delete - GE aircondition machines and tools,CAT08,Tools & Equipments,601,"500,000",Garage equipment
+P6017,To Delete - GE body repair,CAT08,Tools & Equipments,601,"501,000",Bodywork repair
+P6018,To Delete - GE chassis diagnostic,CAT08,Tools & Equipments,601,"500,000",Garage equipment
+P6019,To Delete - GE air distribution,CAT08,Tools & Equipments,601,"500,000",Garage equipment
+P6020,"To Delete - GE garage equipment (storage,warehouse systems,furniture,etc)",CAT08,Tools & Equipments,601,"504,000",Air conditioning Service (just devices and no equipment)
+P6021,To Delete - GE cleaning,CAT08,Tools & Equipments,601,"500,000",Garage equipment
+P6022,To Delete - GE air ventilation + heating,CAT08,Tools & Equipments,601,"500,000",Garage equipment
+P6023,"To Delete - GE fluids (machines, tools)",CAT08,Tools & Equipments,601,"500,000",Garage equipment
+P6024,To Delete - GE diesel,CAT08,Tools & Equipments,601,"500,000",Garage equipment
+P6030,ADAS Kits,CAT08,Tools & Equipments,603,0,OTHER - Not linked
+P6031,ADAS Spare Parts & Accessories,CAT08,Tools & Equipments,603,0,OTHER - Not linked
+P6040,GE Airconditioning Machines,CAT08,Tools & Equipments,604,0,OTHER - Not linked
+P6041,GE Airconditioning Spare Parts & Accessories,CAT08,Tools & Equipments,604,0,OTHER - Not linked
+P6050,GE Air Compressors,CAT08,Tools & Equipments,605,0,OTHER - Not linked
+P6051,GE Air Distribution Spare Parts & Accessories,CAT08,Tools & Equipments,605,0,OTHER - Not linked
+P6060,GE Bodyshop capital Equipment,CAT08,Tools & Equipments,606,0,OTHER - Not linked
+P6061,GE Bodyshop capital Equipment Spare Parts & Accessories,CAT08,Tools & Equipments,606,0,OTHER - Not linked
+P6070,GE Cleaning Equipment,CAT08,Tools & Equipments,607,0,OTHER - Not linked
+P6071,GE Cleaning Equipment Spare Parts & Accessories,CAT08,Tools & Equipments,607,0,OTHER - Not linked
+P6080,GE Generic Consumables,CAT08,Tools & Equipments,608,0,OTHER - Not linked
+P6081,Workplace and Personal Cleaning,CAT08,Tools & Equipments,608,0,OTHER - Not linked
+P6082,Fasteners & Ty-raps,CAT08,Tools & Equipments,608,0,OTHER - Not linked
+P6083,Tapes,CAT08,Tools & Equipments,608,0,OTHER - Not linked
+P6084,Electronics and Battery related Consumables,CAT08,Tools & Equipments,608,0,OTHER - Not linked
+P6085,Retail Batteries,CAT08,Tools & Equipments,608,0,OTHER - Not linked
+P6086,Office and workshop supplies,CAT08,Tools & Equipments,608,0,OTHER - Not linked
+P6087,Technical Gas,CAT08,Tools & Equipments,608,0,OTHER - Not linked
+P6088,Household consumables,CAT08,Tools & Equipments,608,0,OTHER - Not linked
+P6090,Diagnostic Spare Parts & Accessories,CAT08,Tools & Equipments,609,0,OTHER - Not linked
+P6091,Diagnostic Units,CAT08,Tools & Equipments,609,0,OTHER - Not linked
+P6110,To Delete - Spray guns,CAT09,Coatings,611,0,OTHER - Not linked
+P6111,To Delete - Bodyshop equipment,CAT08,Tools & Equipments,611,0,OTHER - Not linked
+P6112,To Delete - Bodyshop tools,CAT08,Tools & Equipments,611,0,OTHER - Not linked
+P6120,Fuel Testing Units,CAT08,Tools & Equipments,612,0,OTHER - Not linked
+P6121,Fuel Testing Units Spare Parts & Accessories,CAT08,Tools & Equipments,612,0,OTHER - Not linked
+P6130,Storage Systems,CAT08,Tools & Equipments,613,0,OTHER - Not linked
+P6131,Storage Systems Spare Parts & Accessories,CAT08,Tools & Equipments,613,0,OTHER - Not linked
+P6132,Cable and Hose Reels,CAT08,Tools & Equipments,613,0,OTHER - Not linked
+P6133,Tool Storage systems and cabinets,CAT08,Tools & Equipments,613,0,OTHER - Not linked
+P6140,HVAC Systems,CAT08,Tools & Equipments,614,0,OTHER - Not linked
+P6141,HVAC Systems Spare Parts & Accessories,CAT08,Tools & Equipments,614,0,OTHER - Not linked
+P6150,Jacks,CAT08,Tools & Equipments,615,0,OTHER - Not linked
+P6151,Lifting Equipment Spare Parts & Accessories,CAT08,Tools & Equipments,615,0,OTHER - Not linked
+P6152,Other Lifting Equipment,CAT08,Tools & Equipments,615,0,OTHER - Not linked
+P6153,Vehicle Lifts,CAT08,Tools & Equipments,615,0,OTHER - Not linked
+P6160,GE Other Lubrification Equipment,CAT08,Tools & Equipments,616,0,OTHER - Not linked
+P6161,GE Other Lubrification Equipment Spare Parts & Accessories,CAT08,Tools & Equipments,616,0,OTHER - Not linked
+P6162,GE Brake Fluid Equipment,CAT08,Tools & Equipments,616,0,OTHER - Not linked
+P6163,GE Coollant Service Equipment,CAT08,Tools & Equipments,616,0,OTHER - Not linked
+P6164,GE Engine Oil Equipment,CAT08,Tools & Equipments,616,0,OTHER - Not linked
+P6165,GE Transmission Fluid Equipment,CAT08,Tools & Equipments,616,0,OTHER - Not linked
+P6166,GE Brake Fluid Equipment Spare Parts & Acc.,CAT08,Tools & Equipments,616,0,OTHER - Not linked
+P6167,GE Coollant Service Equipment Spare Parts & Acc.,CAT08,Tools & Equipments,616,0,OTHER - Not linked
+P6168,GE Engine Oil Equipment Spare Parts & Acc.,CAT08,Tools & Equipments,616,0,OTHER - Not linked
+P6169,GE Transmission Fluid Equipment Spare Parts & Acc.,CAT08,Tools & Equipments,616,0,OTHER - Not linked
+P6170,Battery Charging and Starting,CAT08,Tools & Equipments,617,0,OTHER - Not linked
+P6171,Battery Testing and Maintenance,CAT08,Tools & Equipments,617,0,OTHER - Not linked
+P6172,Power Supply Equipment Spare Parts & Accessories,CAT08,Tools & Equipments,617,0,OTHER - Not linked
+P6180,Air Tools,CAT08,Tools & Equipments,618,0,OTHER - Not linked
+P6181,Hand Tools,CAT08,Tools & Equipments,618,"451,000",Hand tools
+P6182,Workplace Lighting,CAT08,Tools & Equipments,618,0,OTHER - Not linked
+P6184,Power Tools,CAT08,Tools & Equipments,618,0,OTHER - Not linked
+P6185,Other Special Tools,CAT08,Tools & Equipments,618,0,OTHER - Not linked
+P6186,Hand Tools Spare Parts & Accessories,CAT08,Tools & Equipments,618,0,OTHER - Not linked
+P6187,Power Tools Spare Parts & Accessories,CAT08,Tools & Equipments,618,0,OTHER - Not linked
+P6188,Air Tools Spare Parts & Accessories,CAT08,Tools & Equipments,618,0,OTHER - Not linked
+P6189,Other Special Tools Spare Parts & Accessories,CAT08,Tools & Equipments,618,0,OTHER - Not linked
+P6190,Test Lane Equipment,CAT08,Tools & Equipments,619,0,OTHER - Not linked
+P6191,Test Lane Equipment Spare Parts & Accessories,CAT08,Tools & Equipments,619,0,OTHER - Not linked
+P6210,Tyre Diagnostics,CAT08,Tools & Equipments,621,0,OTHER - Not linked
+P6211,Tyre Changers,CAT08,Tools & Equipments,621,0,OTHER - Not linked
+P6212,Wheel Alignment Equipment,CAT08,Tools & Equipments,621,0,OTHER - Not linked
+P6213,Wheel Balancers,CAT08,Tools & Equipments,621,0,OTHER - Not linked
+P6214,Wheel Cleaning Machines,CAT08,Tools & Equipments,621,0,OTHER - Not linked
+P6215,Wheel Service Equipment Spare Parts & Accessories,CAT08,Tools & Equipments,621,0,OTHER - Not linked
+P6220,GE Personal Protection Equipment,CAT08,Tools & Equipments,622,0,OTHER - Not linked
+P6221,Signages,CAT08,Tools & Equipments,622,0,OTHER - Not linked
+P6222,Workwear,CAT08,Tools & Equipments,622,0,OTHER - Not linked
+P6230,Welding Equipment,CAT08,Tools & Equipments,623,0,OTHER - Not linked
+P6231,Welding Spare Parts & Accessories,CAT08,Tools & Equipments,623,0,OTHER - Not linked
+P6232,Soldering Tools & Equipment,CAT08,Tools & Equipments,623,0,OTHER - Not linked
+P6233,Soldering Spare Parts & Accessories,CAT08,Tools & Equipments,623,0,OTHER - Not linked
+P6480,(PH)EV Tools,CAT08,Tools & Equipments,618,0,OTHER - Not linked
+P6481,Battery service Tools,CAT08,Tools & Equipments,618,0,OTHER - Not linked
+P6482,Bodywork & Interior Tools,CAT08,Tools & Equipments,618,0,OTHER - Not linked
+P6483,Braking Tools,CAT08,Tools & Equipments,618,0,OTHER - Not linked
+P6484,Drivetrain Tools,CAT08,Tools & Equipments,618,0,OTHER - Not linked
+P6485,Engine Tools,CAT08,Tools & Equipments,618,0,OTHER - Not linked
+P6486,Fluid service Tools,CAT08,Tools & Equipments,618,0,OTHER - Not linked
+P6487,Steering & Suspension Tools,CAT08,Tools & Equipments,618,0,OTHER - Not linked
+P6488,Wheel & Tyre service Tools,CAT08,Tools & Equipments,618,0,OTHER - Not linked
+P6489,(PH)EV Tools Spare Parts & Acc.,CAT08,Tools & Equipments,618,0,OTHER - Not linked
+P6780,Battery service Tools Spare Parts & Acc.,CAT08,Tools & Equipments,618,0,OTHER - Not linked
+P6781,Bodywork & Interior Tools Spare Parts & Acc.,CAT08,Tools & Equipments,618,0,OTHER - Not linked
+P6782,Braking Tools Spare Parts & Acc.,CAT08,Tools & Equipments,618,0,OTHER - Not linked
+P6783,Drivetrain Tools Spare Parts & Acc.,CAT08,Tools & Equipments,618,0,OTHER - Not linked
+P6784,Engine Tools Spare Parts & Acc.,CAT08,Tools & Equipments,618,0,OTHER - Not linked
+P6785,Fluid service Tools Spare Parts & Acc.,CAT08,Tools & Equipments,618,0,OTHER - Not linked
+P6786,Steering & Suspension Tools Spare Parts & Acc.,CAT08,Tools & Equipments,618,0,OTHER - Not linked
+P6787,Wheel & Tyre service Tools Spare Parts & Acc.,CAT08,Tools & Equipments,618,0,OTHER - Not linked
+P7010,Body fillers & Putties,CAT09,Coatings,701,0,OTHER - Not linked
+P7011,Finishing,CAT09,Coatings,701,0,OTHER - Not linked
+P7012,Bodyshop Consumables,CAT09,Coatings,701,0,OTHER - Not linked
+P7013,Masking System,CAT09,Coatings,701,0,OTHER - Not linked
+P7014,Paint Preparation System,CAT09,Coatings,701,0,OTHER - Not linked
+P7015,Bodyshop Personal Protection,CAT09,Coatings,701,0,OTHER - Not linked
+P7016,Sanding Abrasives,CAT09,Coatings,701,0,OTHER - Not linked
+P7017,"Sealers, Adhesives & Coatings (SAC's)",CAT09,Coatings,701,0,OTHER - Not linked
+P7020,Bodyshop prep. equipment,CAT09,Coatings,702,0,OTHER - Not linked
+P7021,Bodyshop prep Equipment Spare Parts & Accessories,CAT09,Coatings,702,0,OTHER - Not linked
+P7030,Bodyshop finish equipment,CAT09,Coatings,702,0,OTHER - Not linked
+P7031,Bodyshop finish Equipment Spare Parts & Accessories,CAT09,Coatings,702,0,OTHER - Not linked
+P7040,Basecoat,CAT09,Coatings,704,0,OTHER - Not linked
+P7041,Clearcoat,CAT09,Coatings,704,0,OTHER - Not linked
+P7042,Hardener,CAT09,Coatings,704,0,OTHER - Not linked
+P7043,Paint Ancillaries,CAT09,Coatings,704,0,OTHER - Not linked
+P7044,Primer,CAT09,Coatings,704,0,OTHER - Not linked
+P7045,Thinner & Degreaser,CAT09,Coatings,704,0,OTHER - Not linked
+P9000,Not linked (passenger cars),CAT99,Not linked,900,0,OTHER - Not linked
+P9900,Marketing & non-goods,CAT99,Not linked,990,0,OTHER - Not linked
+P9901,Gadgets and Promotional,CAT99,Not linked,990,0,OTHER - Not linked
+P9902,Displays And Advertising,CAT99,Not linked,990,0,OTHER - Not linked
+T1010,Shock absorbers,CAT10,Heavy Duty,101,"205,500",Shock absorbers/strut bearings
+T1011,Shock absorbers various,CAT10,Heavy Duty,101,"209,000",Coil springs
+T1012,Coil springs,CAT10,Heavy Duty,101,"209,400",Adjustable suspension
+T1013,Gas springs,CAT10,Heavy Duty,101,"209,400",Adjustable suspension
+T1014,Mounting kits with bearings,CAT10,Heavy Duty,101,0,OTHER - Not linked
+T1016,Leaf springs,CAT10,Heavy Duty,101,0,OTHER - Not linked
+T1017,Air suspension systems,CAT10,Heavy Duty,101,0,OTHER - Not linked
+T1019,Coil Spring add-ons,CAT10,Heavy Duty,101,0,OTHER - Not linked
+T1020,Brake pads,CAT10,Heavy Duty,102,"201,005",Brake pads/shoes
+T1021,Brake discs,CAT10,Heavy Duty,102,"201,020",Brake discs/ drums
+T1022,Brake various,CAT10,Heavy Duty,102,"201,030",Brake parts
+T1023,Brake hydraulics,CAT10,Heavy Duty,102,"201,025",Brake hydraulics
+T1024,Brake shoes & Linings,CAT10,Heavy Duty,102,"201,005",Brake pads/shoes
+T1025,Brake hoses,CAT10,Heavy Duty,102,"201,025",Brake hydraulics
+T1026,Brake drums,CAT10,Heavy Duty,102,"201,020",Brake discs/ drums
+T1027,Brake calipers,CAT10,Heavy Duty,102,"600,040",Parts subject to wear other revenues
+T1028,To Delete - Drum brakes,CAT10,Heavy Duty,102,"600,040",Parts subject to wear other revenues
+T1029,Brake cables,CAT10,Heavy Duty,102,"600,040",Parts subject to wear other revenues
+T1030,Wheel bearings,CAT10,Heavy Duty,103,"205,010",Wheel bearings
+T1031,Wheel Bearing Kits,CAT10,Heavy Duty,103,0,OTHER - Not linked
+T1032,Wheel Bearing Seals,CAT10,Heavy Duty,103,0,OTHER - Not linked
+T1033,Wheel Hubs,CAT10,Heavy Duty,103,0,OTHER - Not linked
+T1040,Exhaust system,CAT10,Heavy Duty,104,"202,015",Mufflers trucks
+T1041,Catalytic system,CAT10,Heavy Duty,104,"202,510",Catalytic converters
+T1042,Diesel Particulate filters,CAT10,Heavy Duty,104,0,OTHER - Not linked
+T1051,Driveshafts,CAT10,Heavy Duty,105,"204,500",Steering/Suspension/Servo pumps
+T1052,CV joints,CAT10,Heavy Duty,105,"207,000",Drive shafts/CV Joints/Boots
+T1053,CV Boots Kits,CAT10,Heavy Duty,105,0,OTHER - Not linked
+T1054,Other driveline parts,CAT10,Heavy Duty,105,0,OTHER - Not linked
+T1055,Propellor shafts,CAT10,Heavy Duty,105,0,OTHER - Not linked
+T1056,Gear levers,CAT10,Heavy Duty,105,0,OTHER - Not linked
+T1057,Drive line Mounts,CAT10,Heavy Duty,236,0,OTHER - Not linked
+T1058,Transmission Mounts,CAT10,Heavy Duty,236,0,OTHER - Not linked
+T1059,Propellor shafts add-ons,CAT10,Heavy Duty,105,0,OTHER - Not linked
+T1060,Tyres,CAT10,Heavy Duty,106,"350,000",Tyres
+T1061,Tyre consumables,CAT10,Heavy Duty,106,0,OTHER - Not linked
+T1070,Wheel rims,CAT10,Heavy Duty,107,"600,040",Parts subject to wear other revenues
+T1071,Wheel Bolts,CAT10,Heavy Duty,107,0,OTHER - Not linked
+T1072,Wheel covers,CAT10,Heavy Duty,502,0,OTHER - Not linked
+T1080,Chassis various,CAT10,Heavy Duty,108,"253,000",Axle / ware parts for trucks / trailers
+T1081,To Delete - Rubber to metal parts,CAT10,Heavy Duty,236,"600,040",Parts subject to wear other revenues
+T1082,Cables,CAT10,Heavy Duty,102,"600,040",Parts subject to wear other revenues
+T1090,Compressors,CAT10,Heavy Duty,109,"208,500",Spare parts for air conditioning/ thermomanagement
+T1091,Condensers,CAT10,Heavy Duty,109,"208,500",Spare parts for air conditioning/ thermomanagement
+T1092,Dryer Filters,CAT10,Heavy Duty,109,"208,500",Spare parts for air conditioning/ thermomanagement
+T1093,A/C Line Products,CAT10,Heavy Duty,109,"208,500",Spare parts for air conditioning/ thermomanagement
+T1097,Evaporators,CAT10,Heavy Duty,109,0,OTHER - Not linked
+T1100,Brake chambers,CAT10,Heavy Duty,110,"201,040",Air brake parts for trucks / trailers
+T1101,Air feeding valves and other components,CAT10,Heavy Duty,110,"201,040",Air brake parts for trucks / trailers
+T1102,Air system couplings,CAT10,Heavy Duty,110,"201,040",Air brake parts for trucks / trailers
+T1103,Air Pressure compressors & pumps,CAT10,Heavy Duty,110,0,OTHER - Not linked
+T1111,Tie rod ends,CAT10,Heavy Duty,111,0,OTHER - Not linked
+T1112,Axial joints,CAT10,Heavy Duty,111,0,OTHER - Not linked
+T1113,Ball joints,CAT10,Heavy Duty,111,0,OTHER - Not linked
+T1114,Steering boxes,CAT10,Heavy Duty,111,0,OTHER - Not linked
+T1115,Power steering pumps,CAT10,Heavy Duty,111,0,OTHER - Not linked
+T1117,Power Steering add-ons,CAT10,Heavy Duty,111,0,OTHER - Not linked
+T1118,Anti-roll Bars,CAT10,Heavy Duty,111,0,OTHER - Not linked
+T1119,Suspension Bushes,CAT10,Heavy Duty,111,0,OTHER - Not linked
+T1140,Axles,CAT10,Heavy Duty,114,0,OTHER - Not linked
+T1310,Shock absorber Dust Cover,CAT10,Heavy Duty,101,0,OTHER - Not linked
+T1311,Driver Cab Shock Absorbers,CAT10,Heavy Duty,101,0,OTHER - Not linked
+T1312,Steering Shocks,CAT10,Heavy Duty,101,0,OTHER - Not linked
+T1313,Supplementary Coil Springs,CAT10,Heavy Duty,101,0,OTHER - Not linked
+T1314,Top Strut Mounting,CAT10,Heavy Duty,101,0,OTHER - Not linked
+T1315,Suspension Mount Bearings,CAT10,Heavy Duty,101,0,OTHER - Not linked
+T1316,Air Suspension Add-ons,CAT10,Heavy Duty,101,0,OTHER - Not linked
+T1318,Leaf Spring Add-Ons,CAT10,Heavy Duty,101,0,OTHER - Not linked
+T1320,Brake Caliper Accessories,CAT10,Heavy Duty,102,0,OTHER - Not linked
+T1321,Brake Disc Accessories,CAT10,Heavy Duty,102,0,OTHER - Not linked
+T1322,Brake Drum Accessories,CAT10,Heavy Duty,102,0,OTHER - Not linked
+T1323,Brake shoes & Lining Accessories,CAT10,Heavy Duty,102,0,OTHER - Not linked
+T1324,Brake pads accessories,CAT10,Heavy Duty,102,0,OTHER - Not linked
+T1325,Brake Discs & Pads Kits,CAT10,Heavy Duty,102,0,OTHER - Not linked
+T1326,Brake Cylinders,CAT10,Heavy Duty,102,0,OTHER - Not linked
+T1327,Brake Wear Indicators,CAT10,Heavy Duty,102,0,OTHER - Not linked
+T1328,Brake booster & Master Cylinder,CAT10,Heavy Duty,102,0,OTHER - Not linked
+T1410,Suspension Kits,CAT10,Heavy Duty,111,0,OTHER - Not linked
+T1411,Ball joint add-ons,CAT10,Heavy Duty,111,0,OTHER - Not linked
+T1412,Suspension Arms,CAT10,Heavy Duty,111,0,OTHER - Not linked
+T1413,Steering Knuckles,CAT10,Heavy Duty,111,0,OTHER - Not linked
+T1414,Steering Column,CAT10,Heavy Duty,111,0,OTHER - Not linked
+T1415,Link Stabilisers,CAT10,Heavy Duty,111,0,OTHER - Not linked
+T1417,Steering Boots,CAT10,Heavy Duty,111,0,OTHER - Not linked
+T2010,Clutch kits,CAT10,Heavy Duty,201,"204,000",Clutches
+T2011,Clutch parts,CAT10,Heavy Duty,201,"204,000",Clutches
+T2012,Clutch hydraulics,CAT10,Heavy Duty,201,"204,000",Clutches
+T2013,To Delete - Clutch various,CAT10,Heavy Duty,201,"204,000",Clutches
+T2014,Dual Mass Flywheels,CAT10,Heavy Duty,201,"204,000",Clutches
+T2020,V and Multi ribbed Belts,CAT10,Heavy Duty,202,"201,500",Drive belts
+T2021,Single tensioners and pulleys,CAT10,Heavy Duty,202,"201,542",Tensioners
+T2022,Timing & Auxiliary Belt kits (belt and tensioners),CAT10,Heavy Duty,202,0,OTHER - Not linked
+T2023,Transmission chains & components,CAT10,Heavy Duty,202,"201,500",Drive belts
+T2025,"Water pump kits (timing belt, tensioners, water pump)",CAT10,Heavy Duty,202,0,OTHER - Not linked
+T2026,Single timing belts,CAT10,Heavy Duty,202,0,OTHER - Not linked
+T2027,To Delete - Crankshaft pulleys,CAT10,Heavy Duty,202,0,OTHER - Not linked
+T2030,Engine air filters,CAT10,Heavy Duty,203,"203,500",Motor vehicle filters
+T2031,Cabin filters,CAT10,Heavy Duty,203,"203,500",Motor vehicle filters
+T2032,Fuel filters,CAT10,Heavy Duty,203,0,OTHER - Not linked
+T2033,Oil filters,CAT10,Heavy Duty,203,0,OTHER - Not linked
+T2034,Transmission and other filters,CAT10,Heavy Duty,203,0,OTHER - Not linked
+T2040,Hoses,CAT10,Heavy Duty,204,"600,040",Parts subject to wear other revenues
+T2041,To Delete - Hose clamps,CAT10,Heavy Duty,204,"551,500",Mounting parts / DIN standard parts / screws
+T2050,Water pumps,CAT10,Heavy Duty,205,"206,010",Water pumps
+T2051,Thermostats,CAT10,Heavy Duty,205,"206,015",Thermostates
+T2052,Radiators,CAT10,Heavy Duty,205,"207,500",Engine cooling
+T2053,Fans,CAT10,Heavy Duty,205,"207,500",Engine cooling
+T2054,Expansion tanks,CAT10,Heavy Duty,205,0,OTHER - Not linked
+T2055,Heaters,CAT10,Heavy Duty,205,0,OTHER - Not linked
+T2056,Intercoolers,CAT10,Heavy Duty,205,0,OTHER - Not linked
+T2057,Oil coolers,CAT10,Heavy Duty,205,0,OTHER - Not linked
+T2058,Cooling Products,CAT10,Heavy Duty,205,0,OTHER - Not linked
+T2059,Oil cooler gaskets & seals,CAT10,Heavy Duty,205,0,OTHER - Not linked
+T2060,Pistons,CAT10,Heavy Duty,206,0,OTHER - Not linked
+T2061,Piston rings,CAT10,Heavy Duty,206,0,OTHER - Not linked
+T2062,Engine bearings,CAT10,Heavy Duty,206,0,OTHER - Not linked
+T2063,Engine Mounts,CAT10,Heavy Duty,236,0,OTHER - Not linked
+T2064,Oil Service accessories,CAT10,Heavy Duty,206,0,OTHER - Not linked
+T2065,Valves,CAT10,Heavy Duty,206,0,OTHER - Not linked
+T2066,Cylinder heads,CAT10,Heavy Duty,206,0,OTHER - Not linked
+T2067,Bolts and bolts sets,CAT10,Heavy Duty,206,0,OTHER - Not linked
+T2068,Camshafts and camshaft kits,CAT10,Heavy Duty,206,0,OTHER - Not linked
+T2069,Crankshafts,CAT10,Heavy Duty,206,0,OTHER - Not linked
+T2070,Engine Oils,CAT10,Heavy Duty,207,"401,510",Engine oils
+T2071,Gearbox lubricants,CAT10,Heavy Duty,207,0,OTHER - Not linked
+T2072,Other Oils and lubricants,CAT10,Heavy Duty,207,0,OTHER - Not linked
+T2074,Transmission lubricants,CAT10,Heavy Duty,207,0,OTHER - Not linked
+T2080,Fuel pumps,CAT10,Heavy Duty,208,"208,540",Fuel Systems/fuel pumps/replacement parts
+T2081,Fuel Products,CAT10,Heavy Duty,208,0,OTHER - Not linked
+T2090,Engine various,CAT10,Heavy Duty,209,"209,200",Diesel spare parts
+T2091,Injection actuators,CAT10,Heavy Duty,209,"209,200",Diesel spare parts
+T2092,Oil pumps,CAT10,Heavy Duty,209,"207,500",Engine cooling
+T2093,Turbochargers,CAT10,Heavy Duty,209,"600,040",Parts subject to wear other revenues
+T2094,Tachographs,CAT10,Heavy Duty,209,"600,040",Parts subject to wear other revenues
+T2095,Speed limiters,CAT10,Heavy Duty,209,"600,040",Parts subject to wear other revenues
+T2100,Engine gaskets and seals,CAT10,Heavy Duty,210,0,OTHER - Not linked
+T2110,Complete engines,CAT10,Heavy Duty,211,0,OTHER - Not linked
+T2120,Gearboxes and components,CAT10,Heavy Duty,212,0,OTHER - Not linked
+T3010,Spark plugs,CAT10,Heavy Duty,301,0,OTHER - Not linked
+T3011,Ignition cables,CAT10,Heavy Duty,301,0,OTHER - Not linked
+T3012,Glow plugs,CAT10,Heavy Duty,301,"102,015",Glow plugs
+T3013,Ignition electric components (traditional),CAT10,Heavy Duty,301,"102,025",Igition parts
+T3014,Ignition coils,CAT10,Heavy Duty,301,0,OTHER - Not linked
+T3020,Starters,CAT10,Heavy Duty,302,"101,000",Starters/alternators
+T3021,Alternators,CAT10,Heavy Duty,302,"101,000",Starters/alternators
+T3022,Spare parts for starters and alternators,CAT10,Heavy Duty,302,"101,000",Starters/alternators
+T3030,Batteries,CAT10,Heavy Duty,303,"103,010",Car batteries
+T3040,TRW Sipea products,CAT10,Heavy Duty,304,"600,010",Automotive electrics other revenues
+T3050,Wiper arms,CAT10,Heavy Duty,305,"104,010",Wiperblades/rubbers
+T3051,Wiping systems,CAT10,Heavy Duty,305,"104,035",Wiper motors / relays etc.
+T3052,Wiper blades,CAT10,Heavy Duty,305,0,OTHER - Not linked
+T3053,Wiper Motors,CAT10,Heavy Duty,305,0,OTHER - Not linked
+T3060,Headlights,CAT10,Heavy Duty,306,"102,510",Headlights
+T3061,Bulb lamps,CAT10,Heavy Duty,306,"102,525",Bulbs
+T3062,Rear lights,CAT10,Heavy Duty,306,0,OTHER - Not linked
+T3063,Side lights,CAT10,Heavy Duty,306,0,OTHER - Not linked
+T3064,Other lights,CAT10,Heavy Duty,306,0,OTHER - Not linked
+T3065,Front Light accessories,CAT10,Heavy Duty,306,"102,510",Headlights
+T3066,Universal lights,CAT10,Heavy Duty,306,0,OTHER - Not linked
+T3067,Daytime lights,CAT10,Heavy Duty,306,0,OTHER - Not linked
+T3068,Front Fog Lights,CAT10,Heavy Duty,306,0,OTHER - Not linked
+T3070,Switches,CAT10,Heavy Duty,307,"104,500",Switches/relays
+T3071,Steering Column Switches,CAT10,Heavy Duty,307,"104,500",Switches/relays
+T3072,Horn,CAT10,Heavy Duty,307,"600,010",Automotive electrics other revenues
+T3073,Electric various,CAT10,Heavy Duty,307,"600,010",Automotive electrics other revenues
+T3074,To Delete - Ignition parts (traditional),CAT10,Heavy Duty,307,"102,025",Igition parts
+T3080,Other Sensors & Valves,CAT10,Heavy Duty,308,"202,515",Lambda sensors
+T3081,Exhaust gas sensors,CAT10,Heavy Duty,308,0,OTHER - Not linked
+T3082,EGR (exhaust gas regulation) valves,CAT10,Heavy Duty,308,0,OTHER - Not linked
+T3083,Mass air flow meters,CAT10,Heavy Duty,308,0,OTHER - Not linked
+T3084,Oxygen (lambda) sensors,CAT10,Heavy Duty,308,0,OTHER - Not linked
+T3086,Inlet Manifolds,CAT10,Heavy Duty,308,0,OTHER - Not linked
+T3087,Other electronic parts,CAT10,Heavy Duty,308,0,OTHER - Not linked
+T3088,TPMS Sensors,CAT10,Heavy Duty,308,0,OTHER - Not linked
+T3089,Speed sensors,CAT10,Heavy Duty,308,0,OTHER - Not linked
+T3381,Crankshaft & Camshaft Sensors,CAT10,Heavy Duty,308,0,OTHER - Not linked
+T3382,Throttle Body,CAT10,Heavy Duty,308,0,OTHER - Not linked
+T3383,Nox Sensors,CAT10,Heavy Duty,308,0,OTHER - Not linked
+T3384,Accelerator Pedal Position Sensors,CAT10,Heavy Duty,308,0,OTHER - Not linked
+T3385,Steering Angle Sensors,CAT10,Heavy Duty,308,0,OTHER - Not linked
+T3386,Pressure Sensors,CAT10,Heavy Duty,308,0,OTHER - Not linked
+T3387,Control Units,CAT10,Heavy Duty,308,0,OTHER - Not linked
+T4010,Bonnets,CAT10,Heavy Duty,401,"251,500",Sheet metal parts
+T4011,Fenders,CAT10,Heavy Duty,401,0,OTHER - Not linked
+T4012,Doors,CAT10,Heavy Duty,401,0,OTHER - Not linked
+T4013,Tailgates & Boots,CAT10,Heavy Duty,401,0,OTHER - Not linked
+T4014,Repair panels,CAT10,Heavy Duty,401,0,OTHER - Not linked
+T4015,Door Locks and Handles,CAT10,Heavy Duty,401,0,OTHER - Not linked
+T4016,Metal Repair Sheets,CAT10,Heavy Duty,401,0,OTHER - Not linked
+T4030,Outside mirrors,CAT10,Heavy Duty,403,"152,510",Exterior mirrors/ interior mirrors
+T4032,Inside mirrors,CAT10,Heavy Duty,403,0,OTHER - Not linked
+T4033,Mirror Cover,CAT10,Heavy Duty,403,0,OTHER - Not linked
+T4034,Mirror Glass,CAT10,Heavy Duty,403,0,OTHER - Not linked
+T4035,Outside Mirror Control Element,CAT10,Heavy Duty,403,0,OTHER - Not linked
+T4040,Front Bumpers,CAT10,Heavy Duty,404,"252,000",Plastic parts
+T4041,Bumper rear,CAT10,Heavy Duty,404,0,OTHER - Not linked
+T4043,Grilles,CAT10,Heavy Duty,404,0,OTHER - Not linked
+T4044,Trims,CAT10,Heavy Duty,404,0,OTHER - Not linked
+T4045,Plastic covers,CAT10,Heavy Duty,404,0,OTHER - Not linked
+T4050,Windscreens,CAT10,Heavy Duty,405,"251,000",Car glass
+T4051,Side windows,CAT10,Heavy Duty,405,0,OTHER - Not linked
+T4052,Rear windows,CAT10,Heavy Duty,405,0,OTHER - Not linked
+T4053,Window Accessories,CAT10,Heavy Duty,405,0,OTHER - Not linked
+T4060,Window Regulators,CAT10,Heavy Duty,406,"600,030",Body parts other revenues
+T4090,To Delete - Bodyparts various,CAT10,Heavy Duty,401,"600,030",Body parts other revenues
+T4091,Fuel Tanks,CAT10,Heavy Duty,409,0,OTHER - Not linked
+T4092,Wiper mechanisms,CAT10,Heavy Duty,409,0,OTHER - Not linked
+T5020,Tow bars,CAT10,Heavy Duty,502,"600,020",Accessories other revenues
+T5030,Car-Audio-Systems,CAT10,Heavy Duty,502,"101,515",Car radio/ loudspeaker/ accessory
+T5040,Snow chains,CAT10,Heavy Duty,502,"152,515",Snow chains
+T5050,Original parts,CAT10,Heavy Duty,505,"600,060",Other revenues without mapping
+T5090,Accessories various,CAT10,Heavy Duty,509,"600,020",Accessories other revenues
+T5321,Interior cabin parts,CAT10,Heavy Duty,502,0,OTHER - Not linked
+T7040,Basecoat,CAT10,Heavy Duty,704,0,OTHER - Not linked
+T9000,"Not linked (trucks, CV)",CAT99,Not linked,900,0,OTHER - Not linked
